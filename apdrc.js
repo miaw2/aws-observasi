@@ -1,34 +1,22 @@
 
 $( "#draggable" ).draggable({
-	//snap:false,
 	containment: "parent"
-	//snapMode: "outer"
 });
-
 $( "#draggable" ).hide();
 
 $( "#draggable1" ).draggable({
-	//snap:false,
 	containment: "parent"
-	//snapMode: "outer"
 });
-
 $( "#draggable1" ).hide();
 
 $( "#draggable2" ).draggable({
-	//snap:false,
 	containment: "parent"
-	//snapMode: "outer"
 });
-
 $( "#draggable2" ).hide();
 
 $( "#draggable3" ).draggable({
-	//snap:false,
 	containment: "parent"
-	//snapMode: "outer"
 });
-
 $( "#draggable3" ).hide();
 
 var bou = [[-15, 110], [-5, 130]];
